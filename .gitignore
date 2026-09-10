@@ -1,0 +1,3 @@
+# Build & Temporary files
+*.tmp
+*.log
